@@ -39,9 +39,7 @@ export function Navigation() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
           <Link to="/" className="flex items-center">
-            <img src={logo} alt="Flydronics" className="h-12 w-auto" style={{
-              filter: 'hue-rotate(200deg) saturate(1.2) brightness(0.95)'
-            }} />
+            <img src={logo} alt="Flydronics" className="h-12 w-auto" />
           </Link>
 
           {/* Desktop Navigation */}
