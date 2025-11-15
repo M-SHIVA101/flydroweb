@@ -27,22 +27,22 @@ export function About() {
 
   const leaders = [
     {
-      name: '--------',
-      role: 'Founder & CEO',
-      description: '--------------------------------',
-      image: '',
+      name: 'SRIVATSAV KOMPELLY',
+      role: 'CEO',
+      description: 'The billing automation is a game-changer. What used to take our team days now happens automatically with perfect accuracy.',
+      image: 'https://res.cloudinary.com/dsgmd2mwq/image/upload/v1763211483/bava_ejfvfk.jpg',
     },
     {
-      name: '----------',
-      role: 'Head of Training',
-      description: '--------------------------------',
-      image: '',
+      name: 'M PAVANKUMARREDDY',
+      role: 'CEO',
+      description: 'In just a few minutes, we transformed our data into actionable insights. The process was seamless and incredibly efficient!',
+      image: 'https://res.cloudinary.com/dsgmd2mwq/image/upload/v1763210743/pavan_png_hru9s3.jpg',
     },
     {
-      name: '------------',
-      role: 'Chief Technology Officer',
-      description: '--------------------------------',
-      image: '',
+      name: 'MADDI SHIVA',
+      role: 'TechFlow',
+      description: 'Brillance has revolutionized how we handle custom contracts. The automation saves us hours every week and eliminates errors completely.',
+      image: 'https://res.cloudinary.com/dsgmd2mwq/image/upload/v1763210744/shiva_rjp10b.jpg',
     },
     {
       name: 'Shiva Prakash',
