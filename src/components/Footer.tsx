@@ -10,7 +10,11 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="col-span-1 md:col-span-2">
-            <img src={logo} alt="Flydronics" className="h-12 w-auto mb-4" />
+            <div className="inline-block px-4 py-2 rounded-lg" style={{
+              backgroundColor: 'rgba(30, 41, 82, 0.8)',
+            }}>
+              <img src={logo} alt="Flydronics" className="h-12 w-auto mb-4" />
+            </div>
             <p className="text-gray-400 mb-4">
               India's premier drone technology company, pioneering the future of aerial innovation.
             </p>
